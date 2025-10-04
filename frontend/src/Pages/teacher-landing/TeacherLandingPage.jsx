@@ -101,10 +101,6 @@ const TeacherLandingPage = () => {
         <h2 className="fw-bold">
           Let's <strong>Get Started</strong>
         </h2>
-        <p>
-          <b>Teacher: </b>
-          {username}
-        </p>
         <p className="text-muted">
           You'll have the ability to create and manage polls, ask questions, and
           monitor your students' responses in real-time.
